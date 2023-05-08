@@ -38,3 +38,9 @@ watch(route, async (newVal) => {
   opacity: 0;
 }
 </style>
+
+<style lang="scss">
+body {
+  color: $test-color;
+}
+</style>
